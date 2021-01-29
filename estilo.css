@@ -1,0 +1,47 @@
+.banner{
+    text-align: center;
+}
+
+.col{
+    text-align: center;
+}
+
+.btn-dir{
+    padding: 2em 0.2em 2em 0.2em;
+    border:0.1em solid black;
+}
+
+.title-control{
+    background: rgb(184, 184, 184);
+    margin-bottom: 0;
+    border: 0.1em solid black;
+}
+
+.separador{
+    margin-top: 1em;
+}
+
+.botonera{
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 1em;
+}
+
+button{
+    border: 1px solid black !important;
+}
+
+.visibilidad{
+    width: 70%;
+    margin: auto;
+}
+
+.tamaños{
+    width: 90%;
+    margin: auto;
+}
+
+.auto{
+    width: 40%;
+    height: auto;
+}
